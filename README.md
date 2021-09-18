@@ -1,5 +1,5 @@
 # SRE-Monitoring
-SRE - Set up monitoring on a python django web app using elasticsearch -> kibana -> filebeats
+SRE - Set up monitoring on a python django web app using elasticsearch -> kibana -> filebeats, hosted on GCP
 
 Inside GCP, Created Dedicated VM for monitoring, so as not to overload the main server
 - ElasticSearch - Monitoring VM
